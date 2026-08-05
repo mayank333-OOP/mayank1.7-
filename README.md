@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0001-two-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayank333-OOP/mayank1.7-/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayank333-OOP/mayank1.7-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayank333-OOP/mayank1.7-/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mayank333-OOP/mayank1.7-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayank333-OOP/mayank1.7-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## String
 |  |
 | ------- |
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/mayank333-OOP/mayank1.7-/tree/master/1004-max-consecutive-ones-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayank333-OOP/mayank1.7-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
