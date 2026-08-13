@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0724-find-pivot-index) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0303-range-sum-query-immutable) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
