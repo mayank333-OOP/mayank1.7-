@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0290-word-pattern) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mayank333-OOP/mayank1.7-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
