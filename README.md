@@ -43,6 +43,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0278-first-bad-version) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayank333-OOP/mayank1.7-/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0136-single-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
