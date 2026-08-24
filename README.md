@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0290-word-pattern) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,4 +76,12 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0278-first-bad-version) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
