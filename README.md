@@ -28,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
@@ -47,6 +48,7 @@
 | [0205-isomorphic-strings](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0387-first-unique-character-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mayank333-OOP/mayank1.7-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
@@ -96,6 +98,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0387-first-unique-character-in-a-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -108,4 +111,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
