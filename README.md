@@ -35,6 +35,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0202-happy-number) |
+| [2396-strictly-palindromic-number](https://github.com/mayank333-OOP/mayank1.7-/tree/master/2396-strictly-palindromic-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0202-happy-number) |
+| [2396-strictly-palindromic-number](https://github.com/mayank333-OOP/mayank1.7-/tree/master/2396-strictly-palindromic-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0387-first-unique-character-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/mayank333-OOP/mayank1.7-/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
