@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0205-isomorphic-strings) |
@@ -39,6 +40,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayank333-OOP/mayank1.7-/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mayank333-OOP/mayank1.7-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -46,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mayank333-OOP/mayank1.7-/tree/master/0383-ransom-note) |
